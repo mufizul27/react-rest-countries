@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mufizul27/react-rest-countries.git/static/css/main.ba04df2f.css",
+    "main.js": "/mufizul27/react-rest-countries.git/static/js/main.766db55d.js",
+    "static/js/787.c522baa1.chunk.js": "/mufizul27/react-rest-countries.git/static/js/787.c522baa1.chunk.js",
+    "index.html": "/mufizul27/react-rest-countries.git/index.html",
+    "main.ba04df2f.css.map": "/mufizul27/react-rest-countries.git/static/css/main.ba04df2f.css.map",
+    "main.766db55d.js.map": "/mufizul27/react-rest-countries.git/static/js/main.766db55d.js.map",
+    "787.c522baa1.chunk.js.map": "/mufizul27/react-rest-countries.git/static/js/787.c522baa1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba04df2f.css",
+    "static/js/main.766db55d.js"
+  ]
+}
